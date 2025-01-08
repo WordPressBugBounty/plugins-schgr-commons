@@ -1,11 +1,11 @@
-﻿﻿=== Sch.gr Commons===
-Contributors: nts on cti, lenasterg
+﻿=== Sch.gr Commons ===
+Contributors: lenasterg
 Donate link:
-Tags: Greek Schools Network, sch.gr, video.sch.gr, maps.sch.gr, oembed, education, greek
+Tags: Greek Schools Network, sch.gr, video.sch.gr, maps.sch.gr, oembed
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 4.6
-Tested up to: 6.1
+Tested up to: 6.7.1
 Stable tag: 4.0
 
 Just copy/paste a URL of video from https://video.sch.gr,school location map from https://maps.sch.grinto your WordPress posts and see them embed.
