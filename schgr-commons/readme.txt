@@ -6,9 +6,9 @@ License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 4.6
 Tested up to: 6.7.1
-Stable tag: 4.0
+Stable tag: 4.0.1
 
-Just copy/paste a URL of video from https://video.sch.gr,school location map from https://maps.sch.grinto your WordPress posts and see them embed.
+Just copy/paste a URL of video from https://video.sch.gr, or a school location map from https://maps.sch.gr into your WordPress posts and see them embed.
 
 == Description ==
 Adds oEmbed support in WordPress posts, pages and custom post types for videos from https://video.sch.gr, school location map from https://maps.sch.gr sites of Greek Schools Network.
@@ -45,6 +45,9 @@ which interlinks all Greek schools and provides high quality electronic services
 == Upgrade Notice ==
 
 == Changelog ==
+
+= 4.0.1 =
+* Fix some typos. 
 
 = 4.0 =
 * New feature: Embed school location map from https://maps.sch.gr

@@ -2,16 +2,16 @@
 /*
   Plugin Name: Sch.gr commons
   Plugin URI: https://wordpress.org/plugins/schgr-commons/
-  Description:  Adds oEmbed support in WordPress posts, pages and custom post types for videos from https://video.sch.gr, school location map form maps.sch.gr sites of Greek Schools Network.
+  Description:  Adds oEmbed support in WordPress posts, pages and custom post types for videos from https://video.sch.gr, school location map form https://maps.sch.gr sites of Greek Schools Network.
   Tags: sch.gr, video.sch.gr, maps.sch.gr
-  Version: 4.0
+  Version: 4.0.1
   Requires at least: WordPress  4.6
   Tested up to: WordPress 6.1
   Author:  NTS on CTI.gr, lenasterg
   Author URI:
   Text Domain: schgr-commons
   Domain Path: /languages
-  Last Updated: October 24, 2022
+  Last Updated: January 29, 2025
   License: GNU/GPL 3
  */
 
